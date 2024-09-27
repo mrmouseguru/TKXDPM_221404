@@ -24,6 +24,7 @@ public class AddUIConsoleInput {
             new InputStreamReader(System.in));
 
         //khởi tạo đói tượn g UseCase
+        addUseCaseControl = new AddUseCaseControl();
 
     }
 
